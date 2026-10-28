@@ -1,0 +1,7 @@
+MyUiRestDbService\controller\StudyGroupController.class
+MyUiRestDbService\controller\StudentController.class
+MyUiRestDbService\entity\Student.class
+MyUiRestDbService\entity\StudyGroup.class
+MyUiRestDbService\MyUiRestDbServiceApplication.class
+MyUiRestDbService\dao\StudentRepository.class
+MyUiRestDbService\dao\StudyGroupRepository.class
